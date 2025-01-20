@@ -56,30 +56,33 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="100" height="auto" style="margin-right: 10px;">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwindcss/tailwindcss.png" alt="TailwindCSS" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="100" height="auto" style="margin-right: 10px;">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jira/jira.png" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
 </p>
+
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Html5_logo_black.svg" alt="HTML" width="100" height="auto" style="margin-right: 10px;"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="80" height="auto" style="margin-right: 10px;"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Trello_logo.svg" alt="Trello" width="100" height="auto" style="margin-right: 10px;"> 
- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="80" height="auto" style="margin-right: 10px;">
- 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white" alt="Scrum" width="100" height="auto">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/trello/trello.png" alt="Trello" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="100" height="auto" style="margin-right: 10px;"> 
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scrum/scrum.png" alt="Scrum" width="100" height="auto">
+</p>
+
 
 
 ---

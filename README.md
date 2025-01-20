@@ -55,14 +55,14 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 I'm familiar with a variety of technologies, and here’s what I’ve been using most recently:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" width="100" height="80" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="100" height="80" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="100" height="80" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" width="100" height="100" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="100" height="100" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="100" height="100" style="margin-right: 10px;">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" width="100" height="80" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" width="100" height="80" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" width="100" height="80" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" width="100" height="100" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" width="100" height="100" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" width="100" height="100" style="margin-right: 10px;">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" width="100" height="80" style="margin-right: 10px;">

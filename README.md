@@ -55,7 +55,7 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 I'm familiar with a variety of technologies, and here’s what I’ve been using most recently:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" width="120" height="100" style="margin-right: 10px;">
+  <![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="120" height="100" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="120" height="100" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="120" height="100" style="margin-right: 10px;">
 </p>

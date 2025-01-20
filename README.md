@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**NKGarzonGrajales/NKGarzonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 👩‍💻 Nidia Karina Garzón Grajales - Junior Software Developer
 

@@ -49,16 +49,16 @@ Feel free to explore and give feedback on my repositories. Let’s build amazing
 
 🔧 Technologies & Tools:
 ### Technologies & Tools:
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Next.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/Nextjs-logo.svg)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4e/TypeScript_logo_2020.svg)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg)
-![TailwindCSS](https://upload.wikimedia.org/wikipedia/commons/6/64/Tailwind_CSS_Logo.svg)
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e3/Git_icon.svg)
-![Jira](https://upload.wikimedia.org/wikipedia/commons/1/17/Jira_Logo.svg)
-![Scrum](https://upload.wikimedia.org/wikipedia/commons/6/6c/Scrum_Logo.svg)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white)
 
 
 

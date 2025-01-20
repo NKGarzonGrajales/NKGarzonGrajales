@@ -16,13 +16,13 @@ I’d love to connect with other developers, innovators, and tech teams! Reach o
 
 - **LinkedIn**: [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22/)
 - **Email**: [karycyber22@hotmail.com](mailto:karycyber22@hotmail.com)
-- **Telefóno**:  3160555561
+- **Telefóno**:  +57 3160555561
 
 ---
 
 ## 💡 About Me
 
-Hello! I'm Nidia, a Junior Full-Stack Developer currently transitioning from Electronics Engineering with a deep passion for technology and problem-solving. With experience in IT Business Development, I decided to dive into the world of coding, and here I am building cool things with modern web technologies!
+I'm a Junior Full-Stack Developer currently transitioning from Electronics Engineering with a deep passion for technology and problem-solving. With experience in IT Business Development, I decided to dive into the world of coding, and here I am building cool things with modern web technologies!
 
 - 🌱 I'm constantly learning and growing my skills in **React**, **Next.js**, **Node.js**, **TypeScript**, **PostgreSQL**, and more. 
 - 🔧 My journey in tech has taught me that there's always more to discover, and I love every challenge.
@@ -71,7 +71,7 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="100" height="auto" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
 </p>
-
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Html5_logo_black.svg" alt="HTML" width="100" height="auto" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="100" height="auto" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Trello_logo.svg" alt="Trello" width="100" height="auto" style="margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="100" height="auto" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
 <p align="center">
   <img src="https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white" alt="Scrum" width="100" height="auto">
 </p>

@@ -8,6 +8,15 @@ I'm Nidia Karina 👩‍💻✨
 ---
 
 ### 👩‍💻 Nidia Karina Garzón Grajales - Junior Full-Stack Developer
+---
+
+## 💬 How to Reach Me
+
+I’d love to connect with other developers, innovators, and tech teams! Reach out if you're interested in collaborating or just want to chat about tech. 🚀
+
+- **LinkedIn**: [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22/)
+- **Email**: [karycyber22@hotmail.com](mailto:karycyber22@hotmail.com)
+- **Telefóno**:  3160555561
 
 ---
 
@@ -21,20 +30,6 @@ Hello! I'm Nidia, a Junior Full-Stack Developer currently transitioning from Ele
 - 👩‍🏫 I recently completed the **Soy Henry Full-Stack Bootcamp**, where I developed both **front-end** and **back-end** solutions with a focus on **responsive design** and **user experience**.
 
 ---
-
----
-
-## 💬 How to Reach Me
-
-I’d love to connect with other developers, innovators, and tech teams! Reach out if you're interested in collaborating or just want to chat about tech. 🚀
-
-- **LinkedIn**: [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22/)
-- **Email**: [karycyber22@hotmail.com](mailto:karycyber22@hotmail.com)
-- **Telefóno**:  3160555561
-
-  
-
-- --
 
 ### 🎯 My Goals
 

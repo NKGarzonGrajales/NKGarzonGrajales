@@ -62,26 +62,27 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwindcss/tailwindcss.png" alt="TailwindCSS" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="100" height="auto" style="margin-right: 10px;">
 </p>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jira/jira.png" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Git_icon.svg" alt="Git" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="100" height="auto" style="margin-right: 10px;"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="100" height="auto" style="margin-right: 10px;"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/trello/trello.png" alt="Trello" width="100" height="auto" style="margin-right: 10px;"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="100" height="auto" style="margin-right: 10px;"> 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scrum/scrum.png" alt="Scrum" width="100" height="auto">
+  <img src="https://cdn.worldvectorlogo.com/logos/scrum.svg" alt="Scrum" width="100" height="auto">
 </p>
+
 
 
 

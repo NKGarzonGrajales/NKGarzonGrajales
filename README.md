@@ -55,32 +55,30 @@ I'm a Junior Full-Stack Developer currently transitioning from Electronics Engin
 I'm familiar with a variety of technologies, and here’s what I’ve been using most recently:
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="100" height="auto" style="margin-right: 10px;">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="100" height="auto" style="margin-right: 10px;">
-</p>
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="100" height="auto" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="100" height="auto" style="margin-right: 10px;">
-   <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
-</p>
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="100" height="auto" style="margin-right: 10px;"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="100" height="auto" style="margin-right: 10px;"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="auto" style="margin-right: 20px 10py;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="60" height="auto" style="margin-right: 20px 10py;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="60" height="auto" style="margin-right: 20px 10py;">
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="60" height="auto" style="margin-right: 20px;">
 </p>
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white" alt="Trello" width="100" height="auto" style="margin-right: 10px;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="60" height="auto" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="60" height="auto" style="margin-right: 20px;">
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="60" height="auto" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="60" height="auto" style="margin-right: 20px;">
+</p>
+
+<p align="center">
+  
+   <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="60" height="auto" style="margin-right: 20px;">
+   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="60" height="auto" style="margin-right: 10px;"> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="60" height="auto" style="margin-right: 10px;"> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="60" height="auto" style="margin-right: 10px;"> 
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white" alt="Trello" width="70" height="auto" style="margin-right: 10px;"> 
 </p>
 
 ---

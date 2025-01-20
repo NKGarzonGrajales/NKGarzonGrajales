@@ -17,7 +17,7 @@ Full-Stack Developer
 
 I’d love to connect with other developers, innovators, and tech teams! Reach out if you're interested in collaborating or just want to chat about tech. 🚀
 
-- **LinkedIn**: [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22/)
+- **LinkedIn**: [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22)
 - **Email**: [karycyber22@hotmail.com](mailto:karycyber22@hotmail.com)
 - **Telefóno**:  +57 3160555561
 

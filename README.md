@@ -55,27 +55,26 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 I'm familiar with a variety of technologies, and here’s what I’ve been using most recently:
 
 <p align="center">
-  <![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="120" height="100" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="120" height="100" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="120" height="100" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="auto" style="margin-right: 10px;">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" width="120" height="100" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" width="120" height="100" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" width="120" height="100" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" width="100" height="auto" style="margin-right: 10px;">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" width="100" height="100" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="100" height="100" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" width="100" height="100" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="100" height="auto" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" width="100" height="auto" style="margin-right: 10px;">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white" width="120" height="80">
+  <img src="https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white" alt="Scrum" width="100" height="auto">
 </p>
-
-
-
-
 
 
 ---

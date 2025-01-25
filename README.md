@@ -81,7 +81,7 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 ---
 
 ## 🌱 Currently Learning
-I’m always exploring new technologies, and right now, I’m focusing on **Full-Stack Development**, especially improving my skills with frameworks like **Next.js**. I’m working hard to stay up-to-date with industry trends and expand my knowledge!
+I’m always exploring new technologies, and right now, I’m focusing on **Full-Stack Development**, especially improving my skills with frameworks like **Next.js**, **Express.js**, and **Nest.js**. I’m working hard to stay up-to-date with industry trends and expand my knowledge!
 
 ---
 
@@ -93,7 +93,7 @@ Here are a couple of projects I’ve been working on:
 Huellas Unidas is a web and mobile platform designed to help locate lost pets and support stray animals. The application allows users to report and find missing animals efficiently, creating a supportive community that facilitates adoption and aids in animal welfare. This project focuses on accessibility and usability, using modern technologies such as **React**, **Next.js**, **PostgreSQL**, and **Stripe** to enable user interaction while ensuring data security.
 
 ### E-commerce
-E-commerce is a basic online store focused on selling technology products such as computers, phones, smartwatches, and headphones from various brands. The project provides a simple shopping experience, featuring product browsing and filtering by category. While it does not have a payment gateway integrated, it allows users to view and manage products in a shopping cart. The store is built with technologies like **React**, **Tailwind CSS**, **Next.js**, and **PostgreSQL**, with an emphasis on responsive design and user experience.
+E-commerce is a basic online store that sells technology products such as computers, phones, smartwatches, and headphones from various brands. The project provides a simple shopping experience, featuring product browsing and filtering by category. While it does not have an integrated payment gateway, it allows users to view and manage products in a shopping cart. The store is built with technologies like **React**, **Tailwind CSS**, **Next.js**, and **PostgreSQL**, emphasizing responsive design and user experience.
 
 ---
 

@@ -81,7 +81,7 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 ---
 
 ## 🌱 Currently Learning
-I’m always exploring new technologies, and right now, I’m focusing on **Full-Stack Development**, especially improving my skills with frameworks like **React** and **Next.js**. I’m working hard to stay up-to-date with industry trends and expand my knowledge!
+I’m always exploring new technologies, and right now, I’m focusing on **Full-Stack Development**, especially improving my skills with frameworks like **Next.js**. I’m working hard to stay up-to-date with industry trends and expand my knowledge!
 
 ---
 

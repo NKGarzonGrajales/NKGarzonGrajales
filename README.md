@@ -8,7 +8,7 @@ I'm Nidi 👩‍💻✨
 
 ---
 
-### 👩‍💻 Nidia Karina Garzón Grajales - Junior Full-Stack Developer
+### 👩‍💻 Nidia Karina Garzón Grajales - Full-Stack Developer
 ---
 
 ## 💬 How to Reach Me
@@ -23,7 +23,7 @@ I’d love to connect with other developers, innovators, and tech teams! Reach o
 
 ## 💡 About Me
 
-I'm a Junior Full-Stack Developer currently transitioning from Electronics Engineering with a deep passion for technology and problem-solving. With experience in IT Business Development, I decided to dive into the world of coding, and here I am building cool things with modern web technologies!
+I'm a Full-Stack Developer currently transitioning from Electronics Engineering with a deep passion for technology and problem-solving. With experience in IT Business Development, I decided to dive into the world of coding, and here I am building cool things with modern web technologies!
 
 - 🌱 I'm constantly learning and growing my skills in **React**, **Next.js**, **Node.js**, **TypeScript**, **PostgreSQL**, and more. 
 - 🔧 My journey in tech has taught me that there's always more to discover, and I love every challenge.

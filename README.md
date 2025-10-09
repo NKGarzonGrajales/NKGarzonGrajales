@@ -8,7 +8,7 @@ I'm Nidi 👩‍💻✨
 
 ---
 
-### 👩‍💻 Nidia Karina Garzón Grajales - Full-Stack Developer
+### 👩‍💻 ✨ Nidia Karina Garzón Grajales – Full-Stack Developer & Web3 Learner
 ---
 
 ## 💬 How to Reach Me
@@ -25,7 +25,8 @@ I’d love to connect with other developers, innovators, and tech teams! Reach o
 
 I'm a Full-Stack Developer currently transitioning from Electronics Engineering with a deep passion for technology and problem-solving. With experience in IT Business Development, I decided to dive into the world of coding, and here I am building cool things with modern web technologies!
 
-- 🌱 I'm constantly learning and growing my skills in **React**, **Next.js**, **Node.js**, **TypeScript**, **PostgreSQL**, and more. 
+- 🌱 I'm constantly learning and growing my skills in **React**, **Next.js**, **Node.js**, **TypeScript**, **PostgreSQL**, and more.
+- 💠 I’m currently expanding my knowledge in **Web3 and Blockchain development**, exploring how **smart contracts**, **decentralized apps (dApps)**, and **Ethereum networks** can transform the future of web applications.
 - 🔧 My journey in tech has taught me that there's always more to discover, and I love every challenge.
 - 💬 Bilingual in **English** and **Spanish**, and I thrive in team environments using **Agile methodologies** (Scrum).
 - 👩‍🏫 I recently completed the **Soy Henry Full-Stack Bootcamp**, where I developed both **front-end** and **back-end** solutions with a focus on **responsive design** and **user experience**.
@@ -81,7 +82,13 @@ I'm familiar with a variety of technologies, and here’s what I’ve been using
 ---
 
 ## 🌱 Currently Learning
-I’m always exploring new technologies, and right now, I’m focusing on **Full-Stack Development**, especially improving my skills with frameworks like **Next.js**, **Express.js**, and **Nest.js**. I’m working hard to stay up-to-date with industry trends and expand my knowledge!
+
+I’m always exploring new technologies, and right now, I’m focusing on **Full-Stack Development**, especially improving my skills with frameworks like **Next.js**, **Express.js**, and **Nest.js**.  
+I’m working hard to stay up-to-date with industry trends and expand my knowledge.
+
+💠 In parallel, I’m also training in **Web3 and Blockchain development**, learning how to build **smart contracts**, connect **decentralized applications (dApps)** with Web3 technologies, and understand the potential of **decentralized finance (DeFi)**.  
+My goal is to bridge my Full-Stack background with Blockchain innovation — creating secure, transparent, and impactful applications for the next digital era.
+
 
 ---
 

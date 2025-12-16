@@ -3,7 +3,11 @@
 I'm Nidi 👩‍💻✨
 
 <div align="center">
- <img src="[https://images.unsplash.com/photo-1473929734676-5da23f8c1d63](https://upload.wikimedia.org/wikipedia/commons/3/3f/Abstract_geometric_space_art.png)" width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" />
+  <img
+    src="https://i.imgur.com/2JgQG5P.jpeg"
+    alt="Foundation-style geometric banner."
+    style="width:100%; max-width:1100px; height:auto; border-radius:14px;"
+  />
 </div>
 
 

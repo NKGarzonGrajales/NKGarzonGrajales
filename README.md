@@ -3,16 +3,10 @@
 I'm Nidi 👩‍💻✨
 
 <div align="center">
- <img src="https://images.unsplash.com/photo-1473929734676-5da23f8c1d63" width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" />
+ <img src="[https://images.unsplash.com/photo-1473929734676-5da23f8c1d63](https://upload.wikimedia.org/wikipedia/commons/3/3f/Abstract_geometric_space_art.png)" width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" />
 </div>
 
-<div align="center">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Abstract_geometric_space_art.png"
-    alt="Foundation style futuristic banner"
-    style="width:100%; max-width:1100px; height:auto; border-radius:14px;"
-  />
-</div>
+
 ---
 
 ### 👩‍💻 ✨ Nidia Karina Garzón Grajales – Full-Stack Developer & Web3 Learner

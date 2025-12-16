@@ -5,8 +5,7 @@ I'm Nidi 👩‍💻✨
 <div align="center">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Abstract_cosmic_lines.png"
-    alt="Minimal cosmic banner"
-    style="width:100%; max-width:1100px; height:auto; border-radius:14px;"
+    width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;"
   />
 </div>
 

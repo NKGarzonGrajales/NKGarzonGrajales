@@ -2,13 +2,14 @@
 
 I'm Nidi 👩‍💻✨
 
-[<div align="center">
+<div align="center">
   <img
-    src="[https://imgur.com/a/C5limHj.jpeg](https://i.imgur.com/pQsIRTo.jpeg)"
-    alt="Foundation-style banner"
-    style="width:100%; max-width:1100px; height:auto; display:block; margin:0 auto;"
+    src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Abstract_cosmic_lines.png"
+    alt="Minimal cosmic banner"
+    style="width:100%; max-width:1100px; height:auto; border-radius:14px;"
   />
-</div>](https://i.imgur.com/pQsIRTo.jpeg)
+</div>
+
 
 
 ---

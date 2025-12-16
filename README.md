@@ -3,7 +3,8 @@
 I'm Nidi 👩‍💻✨
 
 <div align="center">
- <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000b4d071f5b9f0890d03231a91&ts=490516&p=fs&cid=1&sig=c2c1034b47e5f905c64ce8d3555ad8505e0ed331e6081cbbd53b0e20b91c5cfd&v=0" width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" />
+ <img src="![foundation](https://github.com/user-attachments/assets/e799e96d-4fb6-44f2-b656-4807d7a66afc)
+" width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" />
 </div>
 
 ---

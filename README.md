@@ -6,6 +6,13 @@ I'm Nidi 👩‍💻✨
  <img src="https://images.unsplash.com/photo-1473929734676-5da23f8c1d63" width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" />
 </div>
 
+<div align="center">
+  <img
+    src="https://images.unsplash.com/photo-1473929734676-5da23f8c1d63?auto=format&fit=crop&w=1600&q=80"
+    alt="Banner"
+    style="width: 100%; max-width: 1000px; height: auto; border-radius: 14px; display:block; margin: 0 auto;"
+  />
+</div>
 ---
 
 ### 👩‍💻 ✨ Nidia Karina Garzón Grajales – Full-Stack Developer & Web3 Learner

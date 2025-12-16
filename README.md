@@ -8,9 +8,9 @@ I'm Nidi 👩‍💻✨
 
 <div align="center">
   <img
-    src="https://images.unsplash.com/photo-1473929734676-5da23f8c1d63?auto=format&fit=crop&w=1600&q=80"
-    alt="Banner"
-    style="width: 100%; max-width: 1000px; height: auto; border-radius: 14px; display:block; margin: 0 auto;"
+    src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Abstract_geometric_space_art.png"
+    alt="Foundation style futuristic banner"
+    style="width:100%; max-width:1100px; height:auto; border-radius:14px;"
   />
 </div>
 ---

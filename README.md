@@ -4,7 +4,7 @@ I'm Nidi 👩‍💻✨
 
 <div align="center">
   <img
-    src="https://imgur.com/a/C5limHj.jpeg"
+    src="[https://imgur.com/a/C5limHj.jpeg](https://i.imgur.com/pQsIRTo.jpeg)"
     alt="Foundation-style banner."
     style="width:100%; max-width:1100px; height:auto; display:block; margin:0 auto;"
   />

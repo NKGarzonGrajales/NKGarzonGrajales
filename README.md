@@ -3,7 +3,7 @@
 I'm Nidi 👩‍💻✨
 
 
-<div align="center"> <img src="https://i.imgur.com/JivKW3q.png" width="100" height="90" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" /> </div>
+<div align="center"> <img src="https://i.imgur.com/JivKW3q.png" width="100" height="10" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" /> </div>
 
 
 ---

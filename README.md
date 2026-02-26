@@ -3,7 +3,7 @@
 I'm Nidi 👩‍💻✨
 
 
-<div align="center"> <img src="https://i.imgur.com/JivKW3q.png" width="105" height="85" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" /> </div>
+<div align="center"> <img src="https://i.imgur.com/JivKW3q.png" width="105" height="95" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" /> </div>
 
 
 ---
@@ -17,7 +17,7 @@ I’d love to connect with other developers, innovators, and tech teams! Reach o
 
 - **LinkedIn**: [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22)
 - **Email**: [karycyber22@hotmail.com](mailto:karycyber22@hotmail.com)
-- **Telefóno**:  +57 3160555561
+- **Email2**: [karycyber21@gmail.com](mailto:karycyber21@gmail.com)  
 
 ---
 

@@ -8,7 +8,7 @@ I'm Nidi 👩‍💻✨
 
 ---
 
-### 👩‍💻 ✨ N K G G – Full-Stack Developer & Web3 Learner
+### 👩‍💻 ✨ Nidia Karina Garzon Grajales – Full-Stack Developer & Web3 Learner
 ---
 
 ## 💬 How to Reach Me

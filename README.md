@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecom+Engineer;Full-Stack+Developer;Turning+Ideas+into+Functional+Code;Curious+Web3+Learner;Determined+to+Master+My+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=93C5FD&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecom+Engineer;Full-Stack+Developer;Turning+Ideas+into+Functional+Code;Curious+Web3+Learner;Determined+to+Master+My+Stack" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@ Electronics Engineer and Full-Stack Developer. I combine an engineering backgrou
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=%2F%2F+Driven+by+curiosity%2C+engineering+logic%2C+and+continuous+learning." alt="Typing SVG Mantra" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=30000&color=FBCFE8&center=true&vCenter=true&width=650&lines=%2F%2F+Driven+by+curiosity%2C+engineering+logic%2C+and+continuous+learning." alt="Typing SVG Mantra" />
   </a>
 </p>
 

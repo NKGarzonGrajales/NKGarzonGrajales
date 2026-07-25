@@ -1,108 +1,68 @@
-# Hi there! 
+# Hi there! I'm Nidi 👩‍💻✨
 
-I'm Nidi 👩‍💻✨
+### 👩‍💻 Full-Stack Developer | Electronics & Telecommunications Engineer
 
-
-<div align="center"> <img src="https://i.imgur.com/JivKW3q.png" width="105" height="95" alt="Full-Stack Developer" style="border: 5px solid white; border-radius: 10px; display: block; margin: auto;" /> </div>
-
-
----
-
-### 👩‍💻 ✨ Nidia K Garzon G – Full-Stack Developer & Web3 Learner
----
-
-## 💬 How to Reach Me
-
-I’d love to connect with other developers, innovators, and tech teams! Reach out if you're interested in collaborating or just want to chat about tech. 🚀
-
-- **LinkedIn**: [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22)
-- **Email**: [karycyber22@hotmail.com](mailto:karycyber22@hotmail.com)
-- **Email2**: [karycyber21@gmail.com](mailto:karycyber21@gmail.com)  
+Electronics Engineer and Full-Stack Developer with an analytical mindset and a passion for building modern, scalable, and intuitive web applications. My background in engineering and IT business development allows me to solve complex problems through clean code and user-centered solutions.
 
 ---
 
 ## 💡 About Me
 
-I'm a Full-Stack Developer currently transitioning from Electronics Engineering with a deep passion for technology and problem-solving. With experience in IT Business Development, I decided to dive into the world of coding, and here I am building cool things with modern web technologies!
-
-- 🌱 I'm constantly learning and growing my skills in **React**, **Next.js**, **Node.js**, **TypeScript**, **PostgreSQL**, and more.
-- 💠 I’m currently expanding my knowledge in **Web3 and Blockchain development**, exploring how **smart contracts**, **decentralized apps (dApps)**, and **Ethereum networks** can transform the future of web applications.
-- 🔧 My journey in tech has taught me that there's always more to discover, and I love every challenge.
-- 💬 Bilingual in **English** and **Spanish**, and I thrive in team environments using **Agile methodologies** (Scrum).
-- 👩‍🏫 I recently completed the **Soy Henry Full-Stack Bootcamp**, where I developed both **front-end** and **back-end** solutions with a focus on **responsive design** and **user experience**.
+* 🌱 **Focused on modern web development:** I build robust full-stack applications using **React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL**.
+* 💠 **Web3 & Blockchain Exploration:** I expand my technical skill set by learning decentralized technologies, including Solidity, smart contracts, Foundry, and Chainlink.
+* 👩‍🏫 **Key Background:** Graduate of the **Soy Henry** Full-Stack Bootcamp and participant in the **Ethereum Developer Pack**.
+* 💬 **Bilingual:** Fluent in **English (C1)** and native Spanish, with hands-on experience working in collaborative, Agile/Scrum team environments.
+* 🌐 **Live Portfolio:** Explore my deployed projects at [my-portfolio2026-chi.vercel.app](https://my-portfolio2026-chi.vercel.app/en).
 
 ---
 
-### 🎯 My Goals
+## 🛠️ Tech Stack & Tools
 
-- Continue growing my expertise in **Full-Stack Development**.
-- Contribute to developing **innovative solutions** that are both **scalable** and **user-friendly**.
-- Join a **collaborative tech team** that fosters growth and challenges the status quo.
-
----
-
-### 🚀 Fun Facts About Me:
-- 🗣 I’m bilingual, speaking both **Spanish** and **English** fluently.
-- 🧐 I'm a perfectionist (but don’t worry, I work fast!) and a big fan of solving problems.
-- 🌈 I’m passionate about creating inclusive, intuitive digital experiences.
-- 🎨 I love using **design** to make my projects beautiful and user-centric.
-
----
-
-## 🛠️ Technologies & Tools
-
-I'm familiar with a variety of technologies, and here’s what I’ve been using most recently:
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="auto" style="margin-right: 20px 10py;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="60" height="auto" style="margin-right: 20px 10py;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="60" height="auto" style="margin-right: 20px 10py;">
- <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="60" height="auto" style="margin-right: 20px;">
-</div>
-
-<div align="center">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="60" height="auto" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="60" height="auto" style="margin-right: 20px;">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="60" height="auto" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="60" height="auto" style="margin-right: 20px;">
-</div>
-
-<div align="center">  
-   <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="60" height="auto" style="margin-right: 20px;">
-   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="60" height="auto" style="margin-right: 10px;"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="60" height="auto" style="margin-right: 10px;"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="60" height="auto" style="margin-right: 10px;"> 
-</div>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/-Scrum-1E4D2B?style=flat-square&logo=scrum&logoColor=white" alt="Trello" width="70" height="auto" style="margin-right: 10px;"> 
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-I’m always exploring new technologies, and right now, I’m focusing on **Full-Stack Development**, especially improving my skills with frameworks like **Next.js**, **Express.js**, and **Nest.js**.  
-I’m working hard to stay up-to-date with industry trends and expand my knowledge.
-
-💠 In parallel, I’m also training in **Web3 and Blockchain development**, learning how to build **smart contracts**, connect **decentralized applications (dApps)** with Web3 technologies, and understand the potential of **decentralized finance (DeFi)**.  
-My goal is to bridge my Full-Stack background with Blockchain innovation — creating secure, transparent, and impactful applications for the next digital era.
-
+### 🪙 KipuBankV3 - Decentralized Banking System & Security Audit
+Decentralized banking system (DeFi) for ETH/ERC20 deposits and withdrawals, Chainlink Oracle integration, role management, and internal AMM-style token swapping. Includes a security audit report and automated Foundry tests.
+* **Stack:** Solidity, Ethereum, Foundry, Chainlink, OpenZeppelin, Web3.
+* **Links:** [View Code on GitHub](https://github.com/NKGarzonGrajales/KipuBankV3-FoundryAudit) | [View Contract on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x9db4f934df129e959f9f205f3dd5cd8dcbe86a05)
 
 ---
 
-## 🚀 Projects
-
-Here are a couple of projects I’ve been working on:
-
-### Huellas Unidas
-Huellas Unidas is a web and mobile platform designed to help locate lost pets and support stray animals. The application allows users to report and find missing animals efficiently, creating a supportive community that facilitates adoption and aids in animal welfare. This project focuses on accessibility and usability, using modern technologies such as **React**, **Next.js**, **PostgreSQL**, and **Stripe** to enable user interaction while ensuring data security.
-
-### E-commerce
-E-commerce is a basic online store that sells technology products such as computers, phones, smartwatches, and headphones from various brands. The project provides a simple shopping experience, featuring product browsing and filtering by category. While it does not have an integrated payment gateway, it allows users to view and manage products in a shopping cart. The store is built with technologies like **React**, **Tailwind CSS**, **Next.js**, and **PostgreSQL**, emphasizing responsive design and user experience.
+### 🐾 Huellas Unidas
+Web platform designed for animal welfare management and lost pet localization. Full frontend development featuring responsive navigation and reusable components.
+* **Stack:** React, Next.js, Tailwind CSS, PostgreSQL, Node.js, Stripe, Cloudinary.
+* **Links:** [View Code on GitHub](https://github.com/NKGarzonGrajales/FP3-HENRY) | [View Live Demo](https://huellasunidas.netlify.app)
 
 ---
 
-Feel free to explore my repositories and let me know what you think! Let’s build amazing things together! 💻🌟
+### 🔍 GitHub Explorer
+Interactive application designed to search and navigate repositories, users, and trends using the GitHub API, featuring an optimized interface for quick technical lookups.
+* **Stack:** Next.js, TypeScript, React, Tailwind CSS, PostgreSQL, NestJS.
+* **Links:** [View Code on GitHub](https://github.com/NKGarzonGrajales/github-repository-explorer) | [View Live Demo](https://github-repository-explorer-pjb1.vercel.app)
 
+---
+
+### 📊 GitHub Profile Tracker
+Tool built to track metrics, activity, and statistics of specific profiles or repositories on GitHub, helping developers analyze code performance effectively.
+* **Stack:** Next.js, TypeScript, React, Tailwind CSS, PostgreSQL, NestJS.
+* **Links:** [View Code on GitHub](https://github.com/NKGarzonGrajales/github-profile-tracker) | [View Live Demo](https://github-profile-tracker-pi.vercel.app)
+
+---
+
+## 💬 How to Reach Me
+
+* 💼 **LinkedIn:** [Nidia Karina Garzón Grajales](https://www.linkedin.com/in/nidiag22)
+* 📧 **Email:** [karycyber21@gmail.com](mailto:karycyber21@gmail.com) | [karycyber22@hotmail.com](mailto:karycyber22@hotmail.com)
+* 🌐 **Portfolio:** [my-portfolio2026-chi.vercel.app](https://my-portfolio2026-chi.vercel.app/en)

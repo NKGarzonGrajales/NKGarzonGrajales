@@ -15,12 +15,12 @@ Electronics Engineer and Full-Stack Developer. I combine an engineering backgrou
 * 🌱 **Core focus:** Building full-stack web applications with **React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL**.
 * 💠 **Expanding horizons:** Exploring decentralized technologies and Web3 tools like Solidity, smart contracts, Foundry, and Chainlink.
 * 👩‍🏫 **Technical journey:** Graduate of the **Soy Henry** Full-Stack Bootcamp and participant in the **Ethereum Developer Pack**.
-* 💬 **Communication:** Fluent in **English (C1)** and native Spanish, accustomed to working in collaborative, Agile/Scrum team environments.
+* 💬 **Communication:** Fluent in **English ** and native Spanish, accustomed to working in collaborative, Agile/Scrum team environments.
 * 🌐 **Portfolio:** Explore my projects, code, and live demos at [my-portfolio2026-chi.vercel.app](https://my-portfolio2026-chi.vercel.app/en).
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=30000&color=FBCFE8&center=true&vCenter=true&width=650&lines=%2F%2F+Driven+by+curiosity%2C+engineering+logic%2C+and+continuous+learning." alt="Typing SVG Mantra" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=37000&color=FBCFE8&center=true&vCenter=true&width=650&lines=%2F%2F+Driven+by+curiosity%2C+engineering+logic%2C+and+continuous+learning." alt="Typing SVG Mantra" />
   </a>
 </p>
 
